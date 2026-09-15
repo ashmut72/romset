@@ -145,3 +145,7 @@ footer {
     border-radius: 8px;
     font-size: 14px;
 }
+img {float: right; margin: 40px; border-radius: 8px; max-width: 300px;}}
+img.imagen-software {float: right; margin: 20px; border-radius: 8px; max-width: 300px;}
+img.imagen-hardware {float: right; margin: 20px; border-radius: 8px; max-width: 300px;}
+img.imagen-ia {float: right; margin: 40px; border-radius: 8px; max-width: 450px
